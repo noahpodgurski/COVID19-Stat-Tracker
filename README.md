@@ -3,4 +3,4 @@ Uses PHP, Python, SQL, Bash to scrape data from web and display own page using L
 
 Use `$ stats.sh sources.txt` to begin server
 
-![](images/screenshot.png)
+![](images/screenshot.jpg)
